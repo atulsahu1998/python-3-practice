@@ -1,0 +1,5 @@
+x = float(input("Enter first number : "))
+y = float(input("Enter second number : "))
+if x>y:print("%d is greater "%x)
+elif x==y:print('Both are equal ')
+else:print('%d is greater '%y)
